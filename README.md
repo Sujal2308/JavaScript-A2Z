@@ -116,14 +116,3 @@ If you like this repository, please ⭐ it to support the project!
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?\&style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sujal2308)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sujal23/))
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?\&style=for-the-badge\&logo=twitter\&logoColor=white)](your-twitter-url)
-
----
-
-> *“The best way to learn JavaScript is to write JavaScript.”* ✨
-
-```
-
----
-
-Would you like me to include a **progress tracker** (like `📈 Progress: 25/100 concepts completed`) and **GitHub badges** (for JavaScript, Node.js, repo stars, etc.) at the top for a more professional look?
-```
